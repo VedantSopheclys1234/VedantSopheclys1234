@@ -1,6 +1,6 @@
 My Name is Vedant Sampate
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and Data analyst basics
+- 🌱 I’m currently learning Python,  Java and analytical tools 
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me vedantsampate98@gmail.com
 - 😄 Pronouns: He/him
